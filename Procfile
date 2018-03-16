@@ -1,0 +1,1 @@
+application: sh target/bin/application
